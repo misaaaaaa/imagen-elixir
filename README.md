@@ -32,4 +32,6 @@ Professor Faraday lecturing at the Royal Institution before HRH Prince Albert, t
 
 Instruments built by Russolo, photo published in his 1913 book The Art of Noises
 
-![alt text](imagen.png)
+![alt text](imagenes/russolo.png)
+
+<https://commons.wikimedia.org/wiki/File:Russolointonorumori.jpg>
