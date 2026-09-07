@@ -10,7 +10,7 @@ Mi problema de investigación refiere a la cuestión del sonido y su ontología 
 
 Pensando en el borde, considero que el límite de una ontología es fácil de trazar cuando pensamos en objetos masivos y aparentemente definidos por contornos de manera clara, como las mesas, los vasos o los edificios. Sin embargo, si seguimos sosteniendo la idea de que nada que exista puede estar fuera de la naturaleza, cabe plantearse el lugar que ocupan aspectos como el lenguaje, el pensamiento o la experiencia, los que epistémicamente se encuentran separados del campo de la ciencia, campo del conocimiento al que occidente le releva el lidiar con lo que pasa ahí afuera de nosotrxs. El planteamiento de mi problema busca en su esencia difuminar ese borde que ha alejado a la naturaleza de las humanidades. El entendimiento del sonido y su estatus paradójico, de aparentemente estar situado en varias partes a la vez (¿está ahí afuera, en un órgano sensible, o algo que ensambla mi cerebro?) permitiría operar como soldadura disciplinar para aproximarnos a una cosmología que permita observar con igual interés e igual condición de realidad a los procesos que llevan a la conformación de montañas, a la producción del lenguaje hablado, y al flujo de la imaginación.
 
-## Encargo 2 (7 de septiembre)
+## Encargo 2 (31 de agosto)
 
 *Tarea 2 – elegir una imagen para intervenir el problem*
 
@@ -39,3 +39,11 @@ Instruments built by Russolo, photo published in his 1913 book The Art of Noises
 La imagen aparece publicada dentro de "el arte de los ruidos" (1913). Quizás por el alcance de nombre, se suele situar a esta publicación como el golpe de timón que le dio a la música la vanguardia futurista, y que se encuentra como hito fundacional en cualquier intento de historia del "Arte Sonoro". Las fotografías dejan ver a dos varones bien vestidos, uno de ellos siendo Russolo. El futurismo, bien sostenido en la violencia, el ruido de balas y la fetichización de lo avasallador, propone a la creación sonora como una máquina de guerra. Pero curiosamente, este ejército estaba diseñado para pelear en el campo de batalla de los salones de concierto. Buscaba dejar que estas armas sónicas entraran a la orquesta, sin desarmar este ring, sin redirigir la batalla hacia un terreno geográfico más favorable. De hecho, se pueden encontrar algunas partituras en pentagramas con los movimientos de líneas de las melodías que intentaban representar a través de las escopetas escopetas cónicas. El arte de lo ruidoso es una celebración domesticada que poco le hace a la supuesta quietud de la naturaleza. 
 
 ![alt text](imagenes/texto.png)
+
+### Alternativa 4
+
+Carta de tarot del mago (mazo Raider Waite, 1910)
+
+Pamela Colman Smith was the artist and worked as an artist 'for hire.' She was not acknowledged as the author of the work. Arthur Edward Waite was the copyright holder and he died in 1942.
+
+![carta tarot mago raider waite](./imagenes/mago.jpg)
