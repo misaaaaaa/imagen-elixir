@@ -1,6 +1,6 @@
 # imagen-elixir
 
-bitácora del curso dictado por cynthia shuffer en doctorado artes y humanidades
+bitácora del curso dictado por cynthia shuffer en doctorado artes y humanidades: "una imagen, tal vez. genealogías críticas fuera de norma".
 
 ## Encargo 1 (24 de agosto)
 
