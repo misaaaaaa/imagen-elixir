@@ -14,6 +14,22 @@ Pensando en el borde, considero que el límite de una ontología es fácil de tr
 
 *Tarea 2 – elegir una imagen para intervenir el problem*
 
+### Alternativa 1
+
 Detalle de El Jardin de las Delicias - El Bosco (1550~1505)
 
 ![detalle de orejas en el cuadro el jardín de las delicias](./imagenes/detalle-delicias.png)
+
+### Alternativa 2
+
+Professor Faraday lecturing at the Royal Institution before HRH Prince Albert, the Prince of Wales, and Prince Alfred; from a sketch by Alexander Blaikley; from The Illustrated London News, 16 February 1856.
+
+![grabado de faraday dando una charla](./imagenes/faraday.jpg)
+
+<https://mappingignorance.org/2015/11/19/the-unrehearsed-lecture-that-changed-the-physics-of-light/>
+
+### Alternativa 3
+
+Instruments built by Russolo, photo published in his 1913 book The Art of Noises
+
+![alt text](imagen.png)
