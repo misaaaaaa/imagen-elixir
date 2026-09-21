@@ -12,7 +12,9 @@ Pensando en el borde, considero que el límite de una ontología es fácil de tr
 
 ## Encargo 2 (31 de agosto)
 
-*Tarea 2 – elegir una imagen para intervenir el problem*
+*Elegir una imagen para intervenir el problema*
+
+Nota: Alternativa 4 ganó (más algo de la 2)
 
 ### Alternativa 1
 
@@ -40,10 +42,20 @@ La imagen aparece publicada dentro de "el arte de los ruidos" (1913). Quizás po
 
 ![alt text](imagenes/texto.png)
 
-### Alternativa 4
+### 🟢 Alternativa 4 🟢
 
 Carta de tarot del mago (mazo Raider Waite, 1910)
 
 Pamela Colman Smith was the artist and worked as an artist 'for hire.' She was not acknowledged as the author of the work. Arthur Edward Waite was the copyright holder and he died in 1942.
 
 ![carta tarot mago raider waite](./imagenes/mago.jpg)
+
+## Encargo 3 (7 de septiembre)
+
+*Formar un nodo entre la imagen seleccionada y el primer texto*
+
+El tarot es un juego de imágenes y de lectura de sus signos sostenidos sobre principios arquetípicos. Considerando el misticismo asociado a esta práctica podríamos considerarlo como lo contrario a la búsqueda por la inmanencia en su relación con la lógica del arquetipo trascendental. Sin embargo, en la imagen del mago encontramos algunos guiños que nos aterrizan. 
+
+El mago está parado en la tierra, frente a una mesa que también lo está. Existe, por ende, una lógica de gravedad similar a la nuestra. Cercano a su cabeza aparece la *lemniscata*, símbolo del infinito. No costaría conectar de manera simplista la relación de la mente con la inconmesurabilidad de lo pensable. Sin embargo, cabría preguntarse desde cuando y desde qué lugar se generó esta relación pensamiento-cabeza, o imaginación-cerebro. ¿Está la imaginación ahí en la parte "alta" de mi cuerpo? ¿Por qué no considerarla como algo que está en las manos, en las cosas, en lo que se me aparece? De hecho, la misma imagen jerarquiza de dos maneras distintas a esta facultad imaginativa como algo de menor escala.
+
+Primero, el infinito está más abajo de la mano, cómo si esta pudiese darnos más recursos, mayor entendimiento, que la posibilidad de la subjetividad. Segundo, alrededor de todo el recuadro del mago se encuentra follaje, lo que podríamos interpretar (también de manera simplista) como la Naturaleza. El infinito de la cabeza, la imaginación y su subjetividad no es tan infinito si es inferior a lo que descubren las manos y encuentra en la Naturaleza (el cosmos), un límite de lo posible. Quizás debiésemos imaginar que lo que creemos infinito no lo es, pero sí una cantidad inimaginablemente grande de virtualidades.
