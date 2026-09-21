@@ -59,3 +59,14 @@ El tarot es un juego de imágenes y de lectura de sus signos sostenidos sobre pr
 El mago está parado en la tierra, frente a una mesa que también lo está. Existe, por ende, una lógica de gravedad similar a la nuestra. Cercano a su cabeza aparece la *lemniscata*, símbolo del infinito. No costaría conectar de manera simplista la relación de la mente con la inconmesurabilidad de lo pensable. Sin embargo, cabría preguntarse desde cuando y desde qué lugar se generó esta relación pensamiento-cabeza, o imaginación-cerebro. ¿Está la imaginación ahí en la parte "alta" de mi cuerpo? ¿Por qué no considerarla como algo que está en las manos, en las cosas, en lo que se me aparece? De hecho, la misma imagen jerarquiza de dos maneras distintas a esta facultad imaginativa como algo de menor escala.
 
 Primero, el infinito está más abajo de la mano, cómo si esta pudiese darnos más recursos, mayor entendimiento, que la posibilidad de la subjetividad. Segundo, alrededor de todo el recuadro del mago se encuentra follaje, lo que podríamos interpretar (también de manera simplista) como la Naturaleza. El infinito de la cabeza, la imaginación y su subjetividad no es tan infinito si es inferior a lo que descubren las manos y encuentra en la Naturaleza (el cosmos), un límite de lo posible. Quizás debiésemos imaginar que lo que creemos infinito no lo es, pero sí una cantidad inimaginablemente grande de virtualidades.
+
+---
+
+### Animación de textos
+
+[steyerl-huberman.md](./steyerl-huberman.md)
+
+Steyerl, H. (2020). Los condenados de la pantalla (M. Expósito, Trad.; 1. Ed). Ed. Caja Negra. En caída libre. Un experimento mental sobre la perspectiva vertical
+
+Didi-Huberman, G. (with Bértolo, I.). (2015). Cuando Las Imágenes Toman Posición. Visor Distribuciones, S.A. II. La disposición de las cosas: observar la extrañeza
+
