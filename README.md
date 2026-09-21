@@ -69,4 +69,3 @@ Primero, el infinito está más abajo de la mano, cómo si esta pudiese darnos m
 Steyerl, H. (2020). Los condenados de la pantalla (M. Expósito, Trad.; 1. Ed). Ed. Caja Negra. En caída libre. Un experimento mental sobre la perspectiva vertical
 
 Didi-Huberman, G. (with Bértolo, I.). (2015). Cuando Las Imágenes Toman Posición. Visor Distribuciones, S.A. II. La disposición de las cosas: observar la extrañeza
-
