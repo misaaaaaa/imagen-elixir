@@ -76,4 +76,8 @@ Didi-Huberman, G. (with Bértolo, I.). (2015). Cuando Las Imágenes Toman Posici
 
 ![mago-faraday](./imagenes/mago-faraday.png)
 
+Comentarios: palabras clave como disección, traer a la naturaleza adelante desde esa periferia (pensar las flores y las personas), la manipulación-chantaje, la construcción de apariencias: prestidigitación.
 
+Buscar el lugar incómodo: ¿la espiritualida? ¿las flores? ¿el infinito? ¿la ilustración? porque tal parece que hasta ahora la investigación ha permanecido en el territorio de lo ya conocido.
+
+Próxima semana: intentar entrar a algo más opaco, algo más difícil. Para que la desorientación sea productiva, hay que seguir insistiendo.
